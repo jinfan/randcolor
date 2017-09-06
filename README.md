@@ -19,7 +19,7 @@ if you [use vim + vundle](https://github.com/gmarik/vundle)
     Plugin 'jinfan/vim-randcolor'
     :PluginInstall
 
-if you aren't= use any of these, then you should:)
+if you aren't using any of these, then you should:)
 
 Using
 -----
